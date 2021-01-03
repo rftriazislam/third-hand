@@ -4,7 +4,7 @@
 
 
 
-## ABOUT THIRD HAND
+## ABOUT THIRD HAND APPS
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
@@ -58,7 +58,7 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - [Appoly](https://www.appoly.co.uk)
 - [OP.GG](https://op.gg)
 
-## Contributing
+## ABOUT THIRD HAND 
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
