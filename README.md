@@ -8,39 +8,83 @@
          2 . Login
                   .Signin multiauth system using Guards
                   .Made authentication according to country and route guards 
-         3 . Update User
+         3 . Single User information
+         4 . Update User
                  .User information update api
+         4 .         
  -    Traveller 
          1. Traveller create 
          2. Traveller update
                    . traveller varified system
-         3. 
+         3. All Traveller 
 -     Service 
          1. Service create 
                    .If traveller 70% verified then create service
+         2. Available service
+         3. single Service information
+         4. Personal service
+         5. All Service
+         
+-     Request Service
+         1. Request Service Create
+         2. Single User All Request Services
+         3. Single service All Request 
+         4. Reequest Decline
+         5. Request Accept 
+                   . QR Code Generate
+         6. Request Cancle
+         7. QR Code Get User
+         8. Single User QR code Post
+         9. Delivery Success
+         10.recommand service
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+-    Rating Review
+         1. Review create
+         2. Single Traveller all Review & Rating
+         3. Single User all Review & Rating
+         4. 
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+-    All Successfully Delivery
+         1. All Successfull Delivery Get
+         2. 
+         
+-    Search Service
+         1. Search service
+               . Location search latitude and logitude
+               . Distance measure service find
+         2. Recommand search service
+               . user Location search all service
+               . Current location latitude Lognitude Distance measure service
+  
+-       Affilate Refer
+          1. Affiliate link
+          2. sponsor refer id
+          3. 
+          
+          
+ -     Top earnner 
+         1. country top earnner
+         2. world top earner 
+         3. 
+         
+-      Foreign Service
+         1. foreign service
+         2. Foregin Request service
+        
+ 
+-       Agent 
+         1. agent verified
+         2. traveller varified
+         
+-       Maechant 
+         1.Merchant
+        
 
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
 
 <p align="center"><img src="image/main.jpg" width="500"></p>
 <p align="center"><img src="image/back.jpg" width="500"></p>
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+
 
 - **[Vehikl](https://vehikl.com/)**
 - **[Tighten Co.](https://tighten.co)**
