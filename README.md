@@ -82,7 +82,9 @@
          
 -       Maechant Api
          1.Merchant
-        
+ 
+ 
+ ##Note: Every country using....
 
 # ABOUT THIRD HAND WEB APPLICATION
 <p align="center"><img src="image/main.jpg" width="500"></p>
