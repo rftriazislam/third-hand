@@ -1,4 +1,4 @@
-#                                                                THird Hand 
+# Third Hand
 
 ## ABOUT THIRD HAND APPS
 ### App Link:https://play.google.com/store/apps/details?id=com.codewin.thirdhand
