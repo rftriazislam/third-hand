@@ -39,6 +39,7 @@
          10.recommand service
 
 -    Rating Review
+
          1. Review create
          2. Single Traveller all Review & Rating
          3. Single User all Review & Rating
@@ -48,7 +49,8 @@
          1. All Successfull Delivery Get
          2. 
          
--    Search Service
+-     Search Service
+
          1. Search service
                . Location search latitude and logitude
                . Distance measure service find
@@ -57,6 +59,7 @@
                . Current location latitude Lognitude Distance measure service
   
 -       Affilate Refer
+
           1. Affiliate link
           2. sponsor refer id
           3. 
