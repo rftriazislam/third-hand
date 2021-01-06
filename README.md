@@ -129,7 +129,6 @@
           2. Product add
           
           
-//<p align="center"><img src="image/main.jpg" width="500"></p>
-//<p align="center"><img src="image/back.jpg" width="500"></p>
+
 
 
