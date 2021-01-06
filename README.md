@@ -92,7 +92,44 @@
 
 ## Website link :http://thirdhand.net
 
-<p align="center"><img src="image/main.jpg" width="500"></p>
-<p align="center"><img src="image/back.jpg" width="500"></p>
+-      Website 
+         1. signUp
+         2. SignIn
+                . role create Login system.
+         3. Service page
+         4. contact page
+         5. product page
+         6. Terms & Condition
+ -      Admin Login
+         1. Slider
+               . Create Read Update Delete (CRUD)
+         2. User (4 user Table)
+               .Four Country User information make Different table
+         3. Taveller (4 Traveller Table)
+               .Four Country Taveller information make Different table
+         4. Services (4 serrvice Table)
+         5. Request Service (4 Request Service Table)
+         6. Agent Verified (4 Agent Table)
+         7. Agent Traveller
+         8. Merchant verified (4 Merchant Table)
+         9. Merchant Verified
+         10. Balance (Refer User & Traveller )(4 Balance Table)
+         11. Profite
+         12. Total Balance
+         13. Admin profile update
+         14. Add Money system 
+         
+-        Agent  Login
+          1. Profile setting
+          2. Traveller verified
+          3. Traveller Views
+          
+-        Merchant Login
+          1. Profile setting
+          2. Product add
+          
+          
+//<p align="center"><img src="image/main.jpg" width="500"></p>
+//<p align="center"><img src="image/back.jpg" width="500"></p>
 
 
