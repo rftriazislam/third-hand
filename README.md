@@ -132,8 +132,7 @@
           
           
 
--       Payment gateway
-          1. ShurjoPay Payment gateway modified 
+
          
           
           
