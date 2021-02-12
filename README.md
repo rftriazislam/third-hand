@@ -84,7 +84,9 @@
          
 -       Maechant Api
          1.Merchant
- 
+-       payment gateway API
+         1.  ShurjoPay Payment gateway modified 
+       
  
 ## Note: Every country using....
 
@@ -127,6 +129,12 @@
 -        Merchant Login
           1. Profile setting
           2. Product add
+          
+          
+
+-       Payment gateway
+          1. ShurjoPay Payment gateway modified 
+         
           
           
 
